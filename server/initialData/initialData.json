@@ -15,17 +15,17 @@
         "state": "",
         "country": "israel",
         "city": "tel-aviv",
-        "street": "nehmad meod",
-        "houseNumber": "5",
+        "street": "first street",
+        "houseNumber": "2",
         "zip": ""
       }
     },
     {
-      "title": "last card",
-      "subtitle": "last card subtitle",
-      "description": "last card description",
+      "title": "second card",
+      "subtitle": "second card subtitle",
+      "description": "second card description",
       "phone": "050-0000000",
-      "email": "last@gmail.com",
+      "email": "second@gmail.com",
       "web": "",
       "image": {
         "url": "",
@@ -35,7 +35,7 @@
         "state": "",
         "country": "israel",
         "city": "tel-aviv",
-        "street": "nehmad meod",
+        "street": "second street",
         "houseNumber": "5",
         "zip": ""
       }
@@ -55,7 +55,7 @@
         "state": "",
         "country": "israel",
         "city": "tel-aviv",
-        "street": "nehmad meod",
+        "street": "Third street",
         "houseNumber": "5",
         "zip": ""
       }
@@ -64,42 +64,42 @@
   "users": [
     {
       "name": {
-        "first": "User",
+        "first": "regular",
         "middle": "",
-        "last": "cohen"
+        "last": "regular"
       },
       "image": {
-        "alt": "bla"
+        "alt": ""
       },
-      "phone": "0584797758",
-      "email": "user@gmail.com",
+      "phone": "050-0005500",
+      "email": "regular@gmail.com",
       "password": "Aa1234!",
       "address": {
-        "country": "usa",
-        "city": "nue york",
-        "street": "sumsum",
+        "country": "israel",
+        "city": "be'er sheva",
+        "street": "regular",
         "houseNumber": 1,
-        "zip": 9400
+        "zip": 70000
       }
     },
     {
       "name": {
-        "first": "bizUser",
+        "first": "business",
         "middle": "",
-        "last": "cohen"
+        "last": "business"
       },
       "image": {
-        "alt": "bla"
+        "alt": ""
       },
       "phone": "0584797758",
-      "email": "bizuser@gmail.com",
-      "password": "Aa12345!",
+      "email": "business@gmail.com",
+      "password": "Aa1234!",
       "address": {
         "country": "usa",
-        "city": "nue york",
-        "street": "sumsum",
+        "city": "new york",
+        "street": "business",
         "houseNumber": 1,
-        "zip": 9400
+        "zip": 9000
       },
       "isBusiness": true
     },
@@ -110,16 +110,16 @@
         "last": "admin"
       },
       "image": {
-        "alt": "bla"
+        "alt": ""
       },
       "phone": "0584797758",
       "email": "admin@gmail.com",
-      "password": "Aa12345!",
+      "password": "Aa1234!",
       "address": {
         "country": "usa",
-        "city": "nue york",
-        "street": "sumsum",
-        "houseNumber": 1,
+        "city": "new york",
+        "street": "estert parkwey",
+        "houseNumber": 770,
         "zip": 9400
       },
       "isBusiness": true,
